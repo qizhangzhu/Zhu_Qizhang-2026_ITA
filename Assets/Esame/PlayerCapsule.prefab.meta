@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: c5efc39a8aaf6e64ea40e9ad573e9b47
+guid: 6edcb9c30f42fcf47abe03cd0b9aa2e6
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 267961
-  packageName: 'Starter Assets: Character Controllers | URP'
-  packageVersion: 2.0.2
-  assetPath: Assets/Esame/PlayerCapsule.prefab
-  uploadId: 721456

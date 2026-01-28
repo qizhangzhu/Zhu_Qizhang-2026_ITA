@@ -727,7 +727,7 @@
     "m_Title": "Edge Highlight Fresnel Shading",
     "m_Position": {
         "x": -327.9999694824219,
-        "y": 99.00008392333985
+        "y": 98.99999237060547
     }
 }
 
@@ -2592,8 +2592,8 @@
     "m_ObjectId": "aff23e113c9b4ed393c693fa57a3ae64",
     "m_Title": "Wrist Fade Out",
     "m_Position": {
-        "x": -309.99993896484377,
-        "y": 673.0000610351563
+        "x": -310.0,
+        "y": 673.0001220703125
     }
 }
 

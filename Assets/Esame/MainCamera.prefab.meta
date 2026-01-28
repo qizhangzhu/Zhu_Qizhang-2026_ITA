@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 2d3a85ecde41a8246a79669975912b74
+guid: 4fa5659f4f7e9b7479e6e656a5bbeb5e
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 267961
-  packageName: 'Starter Assets: Character Controllers | URP'
-  packageVersion: 2.0.2
-  assetPath: Assets/Esame/MainCamera.prefab
-  uploadId: 721456
