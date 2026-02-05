@@ -23,6 +23,8 @@ TagManager:
   - car
   - train
   - Coffe
+  - Basket
+  - Prop_ShapeSortingToy
   layers:
   - Default
   - TransparentFX
